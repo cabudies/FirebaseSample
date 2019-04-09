@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "377692571595",
+    "firebase_url": "https://pythondemo-a206a.firebaseio.com",
+    "project_id": "pythondemo-a206a",
+    "storage_bucket": "pythondemo-a206a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377692571595:android:28559027395b8026",
+        "android_client_info": {
+          "package_name": "com.example.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377692571595-ehubm1s517fek7nb8gmpsvgshq15s7ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasesample",
+            "certificate_hash": "e34608362dca7e165c9492081bdd2c76638c4b50"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKWlo3wBvax_RZENJsKDT1Njr_dnRtOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377692571595:android:227b9c898dd06969",
+        "android_client_info": {
+          "package_name": "com.tutweb.gurjas.ebook_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377692571595-lnhbu6bjcdhs4vo3llakn1l74fjchdr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutweb.gurjas.ebook_reader",
+            "certificate_hash": "6d7a474a8512d033544a559741b9bf2cc9271832"
+          }
+        },
+        {
+          "client_id": "377692571595-qc24k556at0tchq7ngrddbss7tq5qdbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutweb.gurjas.ebook_reader",
+            "certificate_hash": "4b5f0eb3c0bff4190c7dea149addaa36df724592"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKWlo3wBvax_RZENJsKDT1Njr_dnRtOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
