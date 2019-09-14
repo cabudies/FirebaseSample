@@ -21,6 +21,84 @@
             "package_name": "com.example.firebasesample",
             "certificate_hash": "e34608362dca7e165c9492081bdd2c76638c4b50"
           }
+        },
+        {
+          "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKWlo3wBvax_RZENJsKDT1Njr_dnRtOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377692571595:android:c2f5f53fdf7503ce",
+        "android_client_info": {
+          "package_name": "com.example.firebasesamplenishant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377692571595-t9p4ansvvl435bn9arupnfh8gehb33n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasesamplenishant",
+            "certificate_hash": "e34608362dca7e165c9492081bdd2c76638c4b50"
+          }
+        },
+        {
+          "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKWlo3wBvax_RZENJsKDT1Njr_dnRtOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377692571595:android:a3a5f38260ada8b4",
+        "android_client_info": {
+          "package_name": "com.example.onlinedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377692571595-3e3jd3iicm3d9ukeg3uken7a9pe2kuqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinedatabase",
+            "certificate_hash": "e34608362dca7e165c9492081bdd2c76638c4b50"
+          }
+        },
+        {
+          "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
@@ -48,6 +126,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "377692571595-qc24k556at0tchq7ngrddbss7tq5qdbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutweb.gurjas.ebook_reader",
+            "certificate_hash": "4b5f0eb3c0bff4190c7dea149addaa36df724592"
+          }
+        },
+        {
           "client_id": "377692571595-lnhbu6bjcdhs4vo3llakn1l74fjchdr6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -56,12 +142,8 @@
           }
         },
         {
-          "client_id": "377692571595-qc24k556at0tchq7ngrddbss7tq5qdbv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.tutweb.gurjas.ebook_reader",
-            "certificate_hash": "4b5f0eb3c0bff4190c7dea149addaa36df724592"
-          }
+          "client_id": "377692571595-6luse940el61p8mved5spalg575eusvp.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
