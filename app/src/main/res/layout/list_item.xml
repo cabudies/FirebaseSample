@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="5dp"
+    android:elevation="10dp"
+    android:layout_height="120dp"
+    android:padding="16dp"
+    android:background="@drawable/list_item_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/student_linear">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:text="Student Name"
+            android:layout_weight="2"
+            android:textColor="#000"
+            android:id="@+id/item_list_student_name"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Student Phone"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:id="@+id/item_list_student_phone"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:text="Address of the student"
+        android:minLines="1"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:layout_below="@id/student_linear"
+        android:layout_marginTop="15dp"
+        android:paddingBottom="5dp"
+        android:id="@+id/item_list_student_address"/>
+
+</RelativeLayout>
